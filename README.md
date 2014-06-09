@@ -27,3 +27,7 @@ rubygoal grupo_f/argentina.rb grupo_d/uruguay.rb
 ```
 
 ![Argentina vs Uruguay](http://f.cl.ly/items/250T2a313g3h3y3C1Q1H/Screen%20Shot%202014-06-04%20at%2000.12.45.png)
+
+## ¿Quién gana el mundial según RubyGoal?
+
+[Resultados según RubyGoal](https://github.com/matflores/rubygoal2014/blob/master/PULPO_PAUL.md)
